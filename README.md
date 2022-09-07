@@ -1,5 +1,5 @@
 # Crowded-trades
-We measure sector crowdedness in the Malaysian equity market using eigenvector centrality along with relative value as a cross check
+Measuring croweded trades in the Malaysian equity market using eigenvector centrality along with relative value as a cross check
 
 According to Kinlaw, Kritzman and Turkington (2019) Crowded Trades: Implications for Sector Rotation and Factor Timing, eigenvector centrality locates crowded trading. Intuitively an investor could profit from entering a bubble run-up (rather than at the late bubble cycle); for this purpose we time our exposure to crowded sectors using relative value. The trade involves buying crowded and non-overvalued stocks; and selling crowded and overvalued stocks.
 
